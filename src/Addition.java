@@ -17,10 +17,11 @@ public class Addition {
 		
 		int b = sc.nextInt();
 		
-		c= a+b;
+		c=  a-(-b);
 		
 		System.out.println("The Sum of "+a+" and "+b+" is : "+c);
 
 	}
+	
 
 }
